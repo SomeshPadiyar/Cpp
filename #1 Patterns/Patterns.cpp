@@ -428,7 +428,7 @@ void patterns(){
 }
 void ending(){
     char c;
-    cout<<"Enter '1' to Run again or enter any other character to end the program:-";
+    cout<<"Enter '1' to Run again or enter any other character to end the program:- ";
     cin>>c;
     if(c=='1'){
         patterns();
